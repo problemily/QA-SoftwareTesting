@@ -2,7 +2,7 @@ package com.qaa.module3.unit_testing_exercises.exercise1;
 
 public class Calculator {
 
-	public double add(double num1, double num2) {
+	public double add(double num1, double num2) { //test connection
 		return num1 + num2;
 	}
 	
